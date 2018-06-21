@@ -1,0 +1,4 @@
+name,interestRate,depositName,minDepTime,maxDepTime,entryBonus,capitalationType,minAmnt
+Tinkoff ,5.60,Ferrari,210,550,0,monthly,120000
+Ally,3.27,Lamborghini,780,1080,0,maturity,134000
+Swedbank,8.27,Mustang,1120,1220,0,monthly,156000
